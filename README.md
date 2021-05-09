@@ -6,8 +6,10 @@
 
 #### Contents 😎
 
-- オンラインプログラミングスクール「[やんばるエキスパートPHP](https://utina.yoshitokamizato.com/entry/2020/04/18/203153)」公式メンター
+- アウトプットブログ「[yutaro blog](https://yutaro-blog.net/)」
+- オンラインプログラミングスクール「[やんばるエキスパートPHP](https://utina.yoshitokamizato.com/entry/2020/04/18/203153)」講師
 - 神戸発の勉強会「[つながる勉強会](https://tsunagaru-kobe.connpass.com/)」運営
+- エンジニア転職特化のオンラインコミュニティ「[転職クエスト](https://tenshoku-quest.net/tenkue/?id=1006)」メンター
 
 #### SNS & Platform 😎
 
