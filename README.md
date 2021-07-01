@@ -3,6 +3,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimotaroo&show_icons=true&theme=merko)
 
+## Skills
+### OS
+MacOS/Linux
+## Forntend
+JavaScript/TypeScript/jQuery/Vue.js/Nuxt.js
+## Backend
+PHP/Laravel/CakePHP
+## Infrastructure
+AWS/Docker
+## DBMS
+MySQL/Oracle Database
+## Version Management
+Git/GitHub/GitLab/Subversion
+## Others
+Backlog/Redmine/Trello
+
 ## Contents
 
 - アウトプットブログ(My blog)「[yutaro blog](https://yutaro-blog.net/)」
@@ -16,11 +32,6 @@
 - [Qiita](https://qiita.com/shimotaroo)
 - [Zenn](https://zenn.dev/shimotaroo)
 - [Wantedly](https://www.wantedly.com/id/shimotaroo)
-
-## Interest
-
-- frontend : TypeScript/Vue.js/Nuxt.js
-- backend : Laravel
 
 <!--
 **shimotaroo/shimotaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
