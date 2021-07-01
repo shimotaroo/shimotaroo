@@ -6,17 +6,17 @@
 ## Skills
 ### OS
 MacOS/Linux
-## Forntend
+### Forntend
 JavaScript/TypeScript/jQuery/Vue.js/Nuxt.js
-## Backend
+### Backend
 PHP/Laravel/CakePHP
-## Infrastructure
+### Infrastructure
 AWS/Docker
-## DBMS
+### DBMS
 MySQL/Oracle Database
-## Version Management
+### Version Management
 Git/GitHub/GitLab/Subversion
-## Others
+### Others
 Backlog/Redmine/Trello
 
 ## Contents
